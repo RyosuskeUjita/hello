@@ -1,6 +1,6 @@
 import java.util.Scanner; // Scannerクラスをインポート
 
-public class kazuate {
+public class Kazuate {
     public static void main(String[] args) {
         // プログラマーが設定する数（2桁の正の整数）
         final int TARGET_NUMBER = 42; // ここに任意の2桁の正の整数を設定します

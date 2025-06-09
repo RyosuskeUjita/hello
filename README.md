@@ -1,2 +1,3 @@
 # hello
-## GitHubフローの練習 6月9日 1回目の編集
+## GitHubフローの練習
+6/9 'kazuate'を'Kazuate'に変更しました
